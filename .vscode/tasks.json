@@ -1,0 +1,48 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Radio: Iniciar desarrollo",
+      "type": "npm",
+      "script": "dev",
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
+    },
+    {
+      "label": "Radio: Liberar puertos 5173 y 3001",
+      "type": "npm",
+      "script": "dev:free-ports",
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
+    },
+    {
+      "label": "Radio: Iniciar solo la web",
+      "type": "npm",
+      "script": "dev:web",
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    },
+    {
+      "label": "Radio: Iniciar solo el servidor de sesiones",
+      "type": "npm",
+      "script": "dev:session",
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    },
+    {
+      "label": "Radio: Compilar producción",
+      "type": "npm",
+      "script": "build",
+      "problemMatcher": [],
+      "group": { "kind": "build", "isDefault": false },
+      "presentation": { "reveal": "always", "panel": "dedicated", "clear": true }
+    },
+    {
+      "label": "Radio: Vista previa de producción",
+      "type": "npm",
+      "script": "preview",
+      "problemMatcher": [],
+      "presentation": { "reveal": "always", "panel": "dedicated" }
+    }
+  ]
+}

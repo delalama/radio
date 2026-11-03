@@ -1,0 +1,356 @@
+{
+  "strait": {
+    "northCoast": [
+      {
+        "latitude": 36.49,
+        "longitude": -6.55
+      },
+      {
+        "latitude": 36.43,
+        "longitude": -6.37
+      },
+      {
+        "latitude": 36.34,
+        "longitude": -6.21
+      },
+      {
+        "latitude": 36.24,
+        "longitude": -6.11
+      },
+      {
+        "latitude": 36.18,
+        "longitude": -6.04
+      },
+      {
+        "latitude": 36.2,
+        "longitude": -5.94
+      },
+      {
+        "latitude": 36.14,
+        "longitude": -5.83
+      },
+      {
+        "latitude": 36.08,
+        "longitude": -5.73
+      },
+      {
+        "latitude": 36.04,
+        "longitude": -5.65
+      },
+      {
+        "latitude": 36.01,
+        "longitude": -5.61
+      },
+      {
+        "latitude": 36.04,
+        "longitude": -5.56
+      },
+      {
+        "latitude": 36.09,
+        "longitude": -5.49
+      },
+      {
+        "latitude": 36.12,
+        "longitude": -5.45
+      },
+      {
+        "latitude": 36.13,
+        "longitude": -5.42
+      },
+      {
+        "latitude": 36.17,
+        "longitude": -5.41
+      },
+      {
+        "latitude": 36.19,
+        "longitude": -5.39
+      },
+      {
+        "latitude": 36.18,
+        "longitude": -5.36
+      },
+      {
+        "latitude": 36.14,
+        "longitude": -5.34
+      },
+      {
+        "latitude": 36.17,
+        "longitude": -5.28
+      },
+      {
+        "latitude": 36.23,
+        "longitude": -5.14
+      },
+      {
+        "latitude": 36.32,
+        "longitude": -4.96
+      },
+      {
+        "latitude": 36.43,
+        "longitude": -4.78
+      }
+    ],
+    "southCoast": [
+      {
+        "latitude": 35.58,
+        "longitude": -6.55
+      },
+      {
+        "latitude": 35.66,
+        "longitude": -6.34
+      },
+      {
+        "latitude": 35.72,
+        "longitude": -6.18
+      },
+      {
+        "latitude": 35.76,
+        "longitude": -6.03
+      },
+      {
+        "latitude": 35.78,
+        "longitude": -5.92
+      },
+      {
+        "latitude": 35.79,
+        "longitude": -5.81
+      },
+      {
+        "latitude": 35.82,
+        "longitude": -5.7
+      },
+      {
+        "latitude": 35.85,
+        "longitude": -5.6
+      },
+      {
+        "latitude": 35.87,
+        "longitude": -5.49
+      },
+      {
+        "latitude": 35.89,
+        "longitude": -5.34
+      },
+      {
+        "latitude": 35.91,
+        "longitude": -5.19
+      },
+      {
+        "latitude": 35.92,
+        "longitude": -4.78
+      }
+    ]
+  },
+  "ceuta": {
+    "northCoast": [
+      {
+        "latitude": 36.43,
+        "longitude": -5.95
+      },
+      {
+        "latitude": 36.31,
+        "longitude": -5.78
+      },
+      {
+        "latitude": 36.2,
+        "longitude": -5.61
+      },
+      {
+        "latitude": 36.1,
+        "longitude": -5.49
+      },
+      {
+        "latitude": 36.12,
+        "longitude": -5.44
+      },
+      {
+        "latitude": 36.14,
+        "longitude": -5.38
+      },
+      {
+        "latitude": 36.18,
+        "longitude": -5.34
+      },
+      {
+        "latitude": 36.17,
+        "longitude": -5.28
+      },
+      {
+        "latitude": 36.27,
+        "longitude": -5.1
+      },
+      {
+        "latitude": 36.43,
+        "longitude": -4.95
+      }
+    ],
+    "southCoast": [
+      {
+        "latitude": 35.68,
+        "longitude": -5.95
+      },
+      {
+        "latitude": 35.73,
+        "longitude": -5.79
+      },
+      {
+        "latitude": 35.78,
+        "longitude": -5.62
+      },
+      {
+        "latitude": 35.84,
+        "longitude": -5.48
+      },
+      {
+        "latitude": 35.89,
+        "longitude": -5.34
+      },
+      {
+        "latitude": 35.91,
+        "longitude": -5.16
+      },
+      {
+        "latitude": 35.92,
+        "longitude": -4.95
+      }
+    ]
+  },
+  "trafalgar": {
+    "northCoast": [
+      {
+        "latitude": 36.55,
+        "longitude": -6.7
+      },
+      {
+        "latitude": 36.5,
+        "longitude": -6.47
+      },
+      {
+        "latitude": 36.45,
+        "longitude": -6.27
+      },
+      {
+        "latitude": 36.39,
+        "longitude": -6.13
+      },
+      {
+        "latitude": 36.31,
+        "longitude": -6.11
+      },
+      {
+        "latitude": 36.24,
+        "longitude": -6.1
+      },
+      {
+        "latitude": 36.18,
+        "longitude": -6.04
+      },
+      {
+        "latitude": 36.2,
+        "longitude": -5.94
+      },
+      {
+        "latitude": 36.14,
+        "longitude": -5.83
+      },
+      {
+        "latitude": 36.08,
+        "longitude": -5.73
+      },
+      {
+        "latitude": 36,
+        "longitude": -5.6
+      },
+      {
+        "latitude": 36.05,
+        "longitude": -5.45
+      },
+      {
+        "latitude": 36.15,
+        "longitude": -5.45
+      },
+      {
+        "latitude": 36.27,
+        "longitude": -5.45
+      },
+      {
+        "latitude": 36.42,
+        "longitude": -5.45
+      },
+      {
+        "latitude": 36.55,
+        "longitude": -5.45
+      }
+    ],
+    "southCoast": [
+      {
+        "latitude": 35.72,
+        "longitude": -6.7
+      },
+      {
+        "latitude": 35.73,
+        "longitude": -6.45
+      },
+      {
+        "latitude": 35.75,
+        "longitude": -6.22
+      },
+      {
+        "latitude": 35.77,
+        "longitude": -6.02
+      },
+      {
+        "latitude": 35.79,
+        "longitude": -5.81
+      },
+      {
+        "latitude": 35.82,
+        "longitude": -5.62
+      },
+      {
+        "latitude": 35.86,
+        "longitude": -5.45
+      }
+    ]
+  },
+  "malaga": {
+    "northCoast": [
+      {
+        "latitude": 37.02,
+        "longitude": -5.05
+      },
+      {
+        "latitude": 36.91,
+        "longitude": -4.88
+      },
+      {
+        "latitude": 36.83,
+        "longitude": -4.7
+      },
+      {
+        "latitude": 36.77,
+        "longitude": -4.54
+      },
+      {
+        "latitude": 36.72,
+        "longitude": -4.42
+      },
+      {
+        "latitude": 36.7,
+        "longitude": -4.25
+      },
+      {
+        "latitude": 36.73,
+        "longitude": -4.08
+      },
+      {
+        "latitude": 36.82,
+        "longitude": -3.88
+      },
+      {
+        "latitude": 36.94,
+        "longitude": -3.65
+      }
+    ]
+  }
+}
